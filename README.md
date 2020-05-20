@@ -1,2 +1,2 @@
 # node-info
-тест для деплоила на Heroku с PostgresSQL
+тест для деплоа на Heroku с PostgresSQL
